@@ -1,6 +1,6 @@
 # TPS_Test
 
 TPS made using: 
-- cinemachine 
-- Unity Input System 
-- Animation Rigging
+- cinemachine (Camera Control)
+- Unity Input System (Player Input)
+- Animation Rigging (fix character animations)
